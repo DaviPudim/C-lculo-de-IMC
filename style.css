@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+div#interface {
+    width: 950px;
+    background-color: black;
+    margin: -80px auto 0px auto;
+    box-shadow: 0px 0px 10px rgb(0, 255, 0);
+    padding: 90px;
+}
+
+header#cabecalho h1 {
+    font-size: 35pt;
+    color: rgb(0, 255, 0)
+    padding: 0px;
+    margin-bottom: 0px;
+}
